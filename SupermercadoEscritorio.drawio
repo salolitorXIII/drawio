@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T15:39:50.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.2.1" etag="YJseKWLphPi4yi4VJgmn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T16:00:28.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="M4dcOwt5JvgS07Z9UplA" version="24.2.1" type="github">
   <diagram name="Página-1" id="H7SlzKvfQT6RZwtmUtB_">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IdL66l522V66rJmPwrOM-2" value="Main" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="IdL66l522V66rJmPwrOM-5" value="&lt;sup&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Username&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;&lt;/sup&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="55" y="60" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IdL66l522V66rJmPwrOM-6" value="&lt;div&gt;example@gmail.com&lt;/div&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="55" y="80" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="IdL66l522V66rJmPwrOM-7" value="Password&lt;sup&gt;&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;&lt;/sup&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="55" y="130" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IdL66l522V66rJmPwrOM-8" value="&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="55" y="150" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="IdL66l522V66rJmPwrOM-9" value="LOGIN" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="IdL66l522V66rJmPwrOM-10" value="Stock" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="400" width="800" height="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
